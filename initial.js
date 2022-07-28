@@ -1,2 +1,1 @@
-var = "robin";
-console.log(var);
+console.log("Hello world");
